@@ -1,0 +1,28 @@
+*{
+    margin:0;}
+
+ a{
+   color: aliceblue;
+   font-size: 10px;
+ }
+    body{
+    padding: 10px;
+    height: 720px;
+    width: 1050px;
+    background-color: rgb(67, 26, 99);
+    background-attachment: scroll;
+    background-repeat: no-repeat;
+   }
+   img{
+      
+      border: 2px;
+      border-color: green;
+      border-style: dashed;
+   }
+   h1{
+      color: aliceblue;
+      position: center;
+      font-family: sans-serif;
+      
+
+   }
